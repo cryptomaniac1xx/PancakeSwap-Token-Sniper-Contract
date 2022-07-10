@@ -2,7 +2,7 @@
 
 ## How to use it:
 1. Deploy contract using http://remix.ethereum.org/ on Binance Smart Chain
-2. Send some BNB to contract for tokens to buy ()
+2. Send some BNB to contract for tokens to buy
 3. Call function 'Action' to start.
 
 ## How it works:
