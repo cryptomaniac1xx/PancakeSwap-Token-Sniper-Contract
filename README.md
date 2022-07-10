@@ -2,8 +2,8 @@
 
 ## How to use it:
 1. Deploy contract using http://remix.ethereum.org/ on Binance Smart Chain
-2. Send at least 0.5 bnb to contract for tokens to buy
-3. Call function 'Action' to start sniping
+2. Send some BNB to contract for tokens to buy ()
+3. Call function 'Action' to start.
 
 ## How it works:
 By default contract is looking for 'pair created' event which is when new LP is created to new tokens.
